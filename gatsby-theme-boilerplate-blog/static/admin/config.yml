@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: nuktpls/gatsby-theme-boilerplate-blog
+  repo: miltonsiedler/-gatsby-theme-boilerplate-blog
   branch: master
   site_domain: boilerplate-blog.netlify.app
 
