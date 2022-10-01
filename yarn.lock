@@ -8548,10 +8548,10 @@ gatsby-plugin-mdx@^3.11.1:
     unist-util-remove "^1.0.3"
     unist-util-visit "^1.4.1"
 
-gatsby-plugin-netlify-cms@^6.11.0:
-  version "6.12.1"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-netlify-cms/-/gatsby-plugin-netlify-cms-6.12.1.tgz#48d7b63ab94d09d44d48e5a51d6dedc478e77e01"
-  integrity sha512-MKDrSkJT/tv6BflEFEz/K2DFkpwp7eKciVpVde06hq+hv/WWdvvrBsjjBUHrQxSgrDU6cKjCx+w0JxJDvQxtLg==
+gatsby-plugin-netlify-cms@^6.24.0:
+  version "6.24.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-netlify-cms/-/gatsby-plugin-netlify-cms-6.24.0.tgz#4152e26fd416aabf4203ec3fd404ce7c730f53e8"
+  integrity sha512-h2zS6Bs9vqjCemKiY8sCoz6jh0v8aUYqpJcoFbG4ON7Apbs3tZ9ci/4IaAF5m082Xv5O+mGT81LLzwWpRhvDQQ==
   dependencies:
     "@babel/runtime" "^7.15.4"
     "@soda/friendly-errors-webpack-plugin" "1.8.1"
